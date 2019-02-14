@@ -1,0 +1,17 @@
+Add CSS for  validation message 
+Use ant componunt for select with wrapper
+test functinality 
+check spell
+grid filtering by trype 
+
+-----------------------------------------
+imp > 
+live search for data
+add tab to grid and filter grid data by tab 
+----------------------------
+css changes 
+------------------------------
+Width of drop down 
+height of table 
+
+validation message on same line 

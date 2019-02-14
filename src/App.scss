@@ -1,0 +1,42 @@
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.container {
+  width: 98%;
+  margin-left: 1%;
+  margin-top: 1%;
+  font-family: sans-serif;
+  font-size: medium;
+}
+
+.padding-s {
+  height: 10px;
+}
+
+.padding-sm {
+  height: 20px;
+}
+
+.padding-m {
+  height: 50px;
+}
+
+.padding-l {
+  height: 100px;
+}
+
+.title {
+  background-color:#f1eeeb;
+  height: 50px;
+  text-indent: 1em;
+}
+
+.feedback {
+  color: #ffa39e;
+}
+
+.fieldSelect{
+  width: 80%;
+}
